@@ -11053,7 +11053,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 @font-face {
   font-family: 'UntitledSans-Light';
   src: url("wp-content/themes/trantor/css/fonts/UntitledSans-Light.eot");
-  src: local("☺"), url("wp-content/themes/trantor/css/fonts/UntitledSans-Light.eot?#iefix") format("embedded-opentype"), url("wp-content/themes/trantor/css/fonts/UntitledSans-Light.woff2") format("woff2"), url("wp-content/themes/trantor/css/fonts/UntitledSans-Light.woff") format("woff"), url("wp-content/themes/trantor/css/fonts/UntitledSans-Light.ttf") format("truetype"), url("wp-content/themes/trantor/css/fonts/UntitledSans-Light.svg#UntitledSans-Light") format("svg");
+  src: local("☺"), url("wp-content/themes/trantor/css/fonts/UntitledSans-Light.eot?#iefix") format("embedded-opentype"), url("/UntitledSans-Light.woff2") format("woff2"), url("/UntitledSans-Light.woff") format("woff"), url("/UntitledSans-Light.ttf") format("truetype"), url("wp-content/themes/trantor/css/fonts/UntitledSans-Light.svg#UntitledSans-Light") format("svg");
   font-weight: normal;
   font-style: normal;
   ;font-display: swap;
