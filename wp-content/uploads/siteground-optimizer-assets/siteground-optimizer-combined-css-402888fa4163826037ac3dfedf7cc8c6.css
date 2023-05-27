@@ -11967,19 +11967,19 @@ outline-style: none;
 
 @media only screen and (max-width: 992px) {
   .height-100-minus-90 {
-      height: -webkit-calc((100vh - 55px));
-      height: -moz-calc((100vh - 55px));
-      height: -o-calc((100vh - 55px));
-      height: calc((100vh - 55px));
+      height: -webkit-calc((100vh - 75px));
+      height: -moz-calc((100vh - 75px));
+      height: -o-calc((100vh - 75px));
+      height: calc((100vh - 75px));
   }
 }
 
 @media only screen and (max-width: 500px) {
   .height-100-minus-90 {
-      height: -webkit-calc((100vh - 45px));
-      height: -moz-calc((100vh - 45px));
-      height: -o-calc((100vh - 45px));
-      height: calc((100vh - 45px));
+      height: -webkit-calc((100vh - 55px));
+      height: -moz-calc((100vh - 55px));
+      height: -o-calc((100vh - 55px));
+      height: calc((100vh - 55px));
   }
 }
 
